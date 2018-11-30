@@ -7,7 +7,6 @@ It is functional in 2018.2.16f1
 
 For viewing code you can use Unity's Mono, or you can use Visual Studio: https://www.visualstudio.com/downloads/
 
-Sample image:
 ![alt text](https://im2.ezgif.com/tmp/ezgif-2-cd04200f1907.gif)
 
 Window -> Grapher will display energies
