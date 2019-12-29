@@ -11,4 +11,4 @@ For viewing code you can use Unity's Mono, or you can use Visual Studio: https:/
 
 Window -> Grapher will display energies
 
-Values can be adjusted in RunScript.sh, using the sliders, or on the \_Manager GameObject
+Values can be adjusted in RunScript.cs, using the sliders, or on the \_Manager GameObject
